@@ -1,0 +1,41 @@
+# Pseudonymous
+
+- Artist profiles with banner and profile picture (responsive, croppable)
+- Add artist with crop modal for banner and profile image
+- Releases (singles, albums, EPs, mixtapes) with artwork, tracks, credits, beats, music video metadata
+- Unreleased music management
+- Release detail modal (clickable from grid, list, and normal views)
+- Achievements timeline with file attachments, external URL attachments, linked releases/tracks, and linked notes
+- Artworks gallery (grid and list views, auto-aggregated from releases)
+- Lyrics editor with markdown preview, slash menu for structure tags, movable floating structure panel
+- Notes with markdown preview (edit, split, preview modes)
+- Discography view (chronological release overview)
+- Features directory (collaborators with contact info and project history)
+- Miscellaneous (type beats, artwork ideas, music video ideas, custom entries, moodboard folders)
+- Backup and export (TXT, CSV, Markdown, isolated artist ZIP, meta-backup ZIP)
+- Import artist backup and meta backup
+- JASmine — lyrics search via lrclib API with iTunes artwork matching
+- JASmine — synced and plain lyrics with toggle
+- JASmine — nested folder system for saved lyrics
+- JASmine — four view modes (grid, normal, list, database)
+- JASmine — movable lyrics window
+- DAISY — random real song discovery from iTunes API
+- DAISY — artist discography search (by artist, album/EP, or song)
+- DAISY — album track listing via iTunes lookup API
+- DAISY — Apple Music verified artist badges
+- DAISY — three view modes (normal, list, grid) with persistence
+- DAISY — scrollable containers for random and discography tabs
+- DAISY — movable lyrics window with on-demand lrclib lookup
+- DAISY — bulk save titles
+- Universal search across artists, releases, tracks, achievements, notes, lyrics, and features
+- Image crop modal with pan and zoom
+- View mode persistence (releases, artworks, home artists, JASmine entries, DAISY discography)
+- Dark mode with CSS variable theming
+- Settings page with feature toggles (JASmine on/off, DAISY on/off)
+- Responsive design (mobile and desktop)
+- IndexedDB storage for files (images, audio up to 1GB)
+- localStorage + IndexedDB for app data persistence
+- Typed confirmation modals for destructive actions
+- Button confirmation modals for edits
+- Auto-save for notes
+- Audio player with seek, mute, and duration display
